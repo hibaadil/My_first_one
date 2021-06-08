@@ -44,7 +44,7 @@ class _HomePageState extends State<HomePage> {
                       ? activecolor
                       : inactivecolor,
                   cardchild: Gundercard(
-                      GunderIcon: FontAwesomeIcons.mars, gunder: 'MALE'),
+                      GunderIcon: FontAwesomeIcons.mars, gunder: 'MaALE'),
                 ),
               ),
               Expanded(
